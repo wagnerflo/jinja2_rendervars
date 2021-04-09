@@ -20,7 +20,7 @@ setup(
         "Topic :: Text Processing",
     ],
     license_files=["LICENSE"],
-    python_requires=">=3.7",
+    python_requires=">=3.8",
     ext_modules=[
         Extension(
             "jinja2_rendervars._contextvars",
