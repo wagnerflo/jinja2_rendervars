@@ -1,0 +1,7 @@
+__pycache__/
+.pyenv/
+!.pyenv/.keep
+build/
+dist/
+jinja2_rendervars.egg-info/
+jinja2_rendervars/_contextvars.so
